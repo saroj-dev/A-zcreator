@@ -1,4 +1,4 @@
-import "./Styles/Global/GlobalCSS.css";
+import "./Styles/GlobalCSS/GlobalCSS.css";
 const App = () => {
   return <div></div>;
 };

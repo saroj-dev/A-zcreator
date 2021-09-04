@@ -3,7 +3,7 @@ const Nav = () => {
   return (
     <>
       <nav>
-        <div className={navstyle.logo}>I'm Nav'</div>
+        <div className={navstyle.logo}>Hello i am Nav</div>
       </nav>
     </>
   );
